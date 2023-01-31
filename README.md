@@ -1,0 +1,1 @@
+# Hackerrank-SQL-Intermediate-skills-certification-test-solution-
